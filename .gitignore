@@ -20,7 +20,6 @@ venv/
 # OS / editor
 .DS_Store
 Thumbs.db
-.vscode/
 .idea/
 .cursor/
 
@@ -60,3 +59,4 @@ C*tool-results*.txt
 # Test / diagnostic files
 test_gemini.env
 test_gemini_diag.py
+config.bat
